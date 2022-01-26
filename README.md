@@ -1,4 +1,4 @@
-안녕하세요!
+<h2>안녕하세요!
 
 Estou aqui para aprender, edito apenas html no blogger ♪ Iniciante ♪
   
